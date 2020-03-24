@@ -13,7 +13,8 @@ This is a React project following [Complete React Developer in 2019(w/ Redux, Ho
 * Firestore
 * Styled Components
 * Stripe API
-* Redux-thunk -> Redux-Saga
+* Redux-thunk -> Redux-Saga 
+* Replace Redux-Saga with Context API
 
 
-*last updated: Dec 3 2019
+*last updated: Jan 28 2020
