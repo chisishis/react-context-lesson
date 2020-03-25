@@ -2,7 +2,7 @@
 
 This is a React project following [Complete React Developer in 2019(w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery)
 
-## Package Used
+## Package / Library Used
 
 * React
 * Redux
@@ -14,7 +14,7 @@ This is a React project following [Complete React Developer in 2019(w/ Redux, Ho
 * Styled Components
 * Stripe API
 * Redux-thunk -> Redux-Saga 
-* Replace Redux-Saga with Context API
+* Context API
 
-
-*last updated: Jan 28 2020
+* Moved from [an old repo] (https://github.com/chisishis/react-study) 
+* last updated: March 24 2020
